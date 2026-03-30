@@ -1,4 +1,4 @@
-##E-Commerce Order Engine
+E-Commerce Order Engine
 Project Overview
 
 This is a console-based e-commerce backend system built in Java.
